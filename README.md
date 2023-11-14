@@ -127,7 +127,7 @@ Develop the habit of learning Data Science every day no matter how small.
  
 ### For Certifications:
 
-| [Coursera](https://coursera.org/share/c40b8f3c3c8ef8195d4dbfe8b2528f4d) | [Kaggle](https://www.kaggle.com/learn/) | [Simplilearn](https://www.simplilearn.com) | [Forage](https://www.theforage.com/) | [Edureka](https://www.edureka.co/) | [HackerRank](https://www.hackerrank.com/mrankitgupta)  | [Udemy](https://www.udemy.com/) | [Codechef](https://www.codechef.com/)  | [Udacity](https://www.udacity.com/) |
+| [Coursera](https://coursera.org/) | [Kaggle](https://www.kaggle.com/learn/) | [Simplilearn](https://www.simplilearn.com) | [Forage](https://www.theforage.com/) | [Edureka](https://www.edureka.co/) | [HackerRank](https://www.hackerrank.com/mrankitgupta)  | [Udemy](https://www.udemy.com/) | [Codechef](https://www.codechef.com/)  | [Udacity](https://www.udacity.com/) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
 ### For Coding Practice:
