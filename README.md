@@ -26,9 +26,13 @@ Numerous contemporary tools and technologies are employed by businesses for cond
 
 * <a href="https://youtu.be/YYXdXT2l-Gg?si=LXVb6RbaLIs_163G">Python</a> <a href="https://youtu.be/YYXdXT2l-Gg?si=LXVb6RbaLIs_163G" target="_blank"> </a>
 
-* ##### Python Libraries : <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> | <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+* ##### Python Libraries :
+* <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> </a> |
+*  <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  </a> |
+* <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer">  </a> |
+* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">  </a> 
 
-* <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+* <a href="https://youtu.be/XcLO4f1i4Yo?si=xPu1OKATEK92urMB">Statistics & Probability </a><a href="https://youtu.be/XcLO4f1i4Yo?si=xPu1OKATEK92urMB" target="_blank" rel="noreferrer">  </a>
 
 
 ## You can reach me  👇 
@@ -118,15 +122,15 @@ Develop the habit of learning Data Science every day no matter how small.
 
 ### Other Learning Platforms:
 
-| [JavaTpoint](https://www.javatpoint.com/) | [TutorialsPoint](https://www.tutorialspoint.com/tutorialslibrary.htm) | [Geeks For Geeks](https://www.geeksforgeeks.org/) | [Code With Harry](https://www.codewithharry.com/) | [GitHub](https://github.com/mrankitgupta) | [Kaggle](https://www.kaggle.com/mrankitgupta) | [DataCamp](https://www.datacamp.com/) | [W3Schools](https://www.w3schools.com/) | [Guru99](https://www.guru99.com/) | [Dev](https://dev.to/mrankitgupta) |
+| [JavaTpoint](https://www.javatpoint.com/) | [TutorialsPoint](https://www.tutorialspoint.com/tutorialslibrary.htm) | [Geeks For Geeks](https://www.geeksforgeeks.org/) | [Code With Harry](https://www.codewithharry.com/) | [GitHub](https://github.com) | [Kaggle](https://www.kaggle.com/) | [DataCamp](https://www.datacamp.com/) | [W3Schools](https://www.w3schools.com/) | [Guru99](https://www.guru99.com/) | [Dev](https://dev.to/) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
  
 ### For Certifications:
 
-| [Coursera](https://coursera.org/share/c40b8f3c3c8ef8195d4dbfe8b2528f4d) | [Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | [Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) | [Great Learnings](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) | [Forage](https://www.theforage.com/) | [Edureka](https://www.edureka.co/) | [HackerRank](https://www.hackerrank.com/mrankitgupta)  | [Udemy](https://www.udemy.com/) | [Codechef](https://www.codechef.com/)  | [Upgrad](https://www.upgrad.com/) | [Udacity](https://www.udacity.com/) |
+| [Coursera](https://coursera.org/share/c40b8f3c3c8ef8195d4dbfe8b2528f4d) | [Kaggle](https://www.kaggle.com/learn/) | [Simplilearn](https://www.simplilearn.com) | [Forage](https://www.theforage.com/) | [Edureka](https://www.edureka.co/) | [HackerRank](https://www.hackerrank.com/mrankitgupta)  | [Udemy](https://www.udemy.com/) | [Codechef](https://www.codechef.com/)  | [Udacity](https://www.udacity.com/) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
 ### For Coding Practice:
-| [HackerRank](https://www.hackerrank.com/mrankitgupta) | [Leetcode](https://leetcode.com/mrankitgupta1/) | [Kaggle](https://www.kaggle.com/mrankitgupta) | [Codechef](https://www.codechef.com/) | [Unstop](https://unstop.com/) | [HackerEarth](https://www.hackerearth.com/practice/) | [Codeforces](https://codeforces.com/) | [Interviewbit](https://www.interviewbit.com/) | [Google Dev](https://developers.google.com/) |
+| [HackerRank](https://www.hackerrank.com/) | [Leetcode](https://leetcode.com/) | [Kaggle](https://www.kaggle.com/) | [Codechef](https://www.codechef.com/) | [Unstop](https://unstop.com/) | [HackerEarth](https://www.hackerearth.com/practice/) | [Codeforces](https://codeforces.com/) | [Interviewbit](https://www.interviewbit.com/) | [Google Dev](https://developers.google.com/) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
