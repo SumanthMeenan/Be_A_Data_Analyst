@@ -30,41 +30,7 @@ Numerous contemporary tools and technologies are employed by businesses for cond
 
 * <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
-<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
 
-- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
- 
-- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
- 
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
-
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
-
-- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
-
-- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
-
-
-## What are my featured projects:question: 👨‍💻 🛰️
-
-<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
-
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
-
-<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
- 
-<code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
- 
-<code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
-
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
-
-<code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
- 
 ## You can reach me  👇 
 
 <a href="https://www.linkedin.com/in/sumanth-meenan-/" target="blank"><img align="center" src="https://img.shields.io/badge/-SumanthMeenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanth-meenan-/" alt="SumanthMeenan" height="20" width="100" /></a>
