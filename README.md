@@ -9,7 +9,7 @@ It contributes to enhanced decision-making, superior customer service, streamlin
 
 Numerous contemporary tools and technologies are employed by businesses for conducting Data Analytics.
 
-## Technologies used ⚙️
+## Learn this TechStack 
 
 * <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI">Advanced Excel 2023</a><a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI" target="_blank" rel="noreferrer">  </a>
 
