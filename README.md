@@ -11,9 +11,9 @@ Numerous contemporary tools and technologies are employed by businesses for cond
 
 ## Technologies used ⚙️
 
-* <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI">Advance Excel</a><a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI" target="_blank" rel="noreferrer">  </a>
+* <a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI">Advanced Excel 2023</a><a href="https://www.youtube.com/watch?v=8Ob8Hre_SnI" target="_blank" rel="noreferrer">  </a>
 
-* <a href="https://www.javatpoint.com/data-structure-tutorial">Data Structures</a><a href="https://www.javatpoint.com/data-structure-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-line-4.svg" alt="Data Structure" width="25" height="25"/> </a>
+* <a href="https://www.geeksforgeeks.org/python-data-structures-and-algorithms/">Data Structures and Algorithms using Python</a><a href="https://www.geeksforgeeks.org/python-data-structures-and-algorithms/" target="_blank" rel="noreferrer">  </a>
 
 * <a href="https://www.javatpoint.com/dbms-tutorial">Database Management System (DBMS)</a><a href="https://www.javatpoint.com/dbms-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-base-11.svg" alt="DBMS" width="25" height="25"/> </a>
 
