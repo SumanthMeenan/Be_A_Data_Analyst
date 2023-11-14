@@ -21,8 +21,8 @@ Numerous contemporary tools and technologies are employed by businesses for cond
 <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> </a>  
 * <a href="https://www.mongodb.com/">MongoDB</a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  </a>
 
-* <a href="https://public.tableau.com/app/profile/mrankitgupta">Tableau</a><a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/> </a>  |
-<a href="https://powerbi.microsoft.com/en-us/">Power BI</a><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" alt="powerbi" width="20" height="20"/> </a>
+* <a href="https://www.youtube.com/watch?v=aHaOIvR00So">Tableau</a><a href="https://www.youtube.com/watch?v=aHaOIvR00So" target="_blank" rel="noreferrer"> </a>  |
+<a href="https://powerbi.microsoft.com/en-us/">Power BI</a><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">  </a>
 
 * <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
